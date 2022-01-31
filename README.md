@@ -2,7 +2,7 @@
 
 ## Instructions
 
-First:  download the '.xml' file.
+** First: **  download the '.xml' file.
 
 Second: Do as follows,
 • Linux/Mac OS: Copy the XML file to `~/.config/QtProject/qtcreator/styles`.
