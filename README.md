@@ -1,6 +1,6 @@
 # QT-Project
 
-**First:**  download the ".xml" file.
+**First:**  Download the ".xml" file.
 
 **Second:** Do as follows,
 
