@@ -10,4 +10,4 @@
 
 **Third:** Open Qt Creator and navigate as follows,
 
-• Tools > Options > Text Editor > Font & Colors > Select your desired color scheme from the drop menu.
+• Tools > Options > Text Editor > Font & Colors > Select your desired color from the drop menu.
