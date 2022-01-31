@@ -4,9 +4,9 @@
 
 **Second:** Do as follows,
 
-• Linux/Mac OS: Copy the XML file to "~/.config/QtProject/qtcreator/styles".
+• Linux/Mac OS: Copy the "XML" file to "~/.config/QtProject/qtcreator/styles".
 
-• On Windows: Copy the XML file to "%APPDATA%\QtProject\qtcreator\styles".
+• Windows: Copy the "XML" file to "%APPDATA%\QtProject\qtcreator\styles".
 
 **Third:** Open Qt Creator and navigate as follows,
 
