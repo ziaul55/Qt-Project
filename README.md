@@ -1,7 +1,5 @@
 # QT-Project
 
-## Instructions
-
 **First:**  download the ".xml" file.
 
 **Second:** Do as follows,
