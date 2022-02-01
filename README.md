@@ -1,4 +1,4 @@
-# QT-Project
+# Qt Project
 
 **First:**  Download the ".xml" file.
 
